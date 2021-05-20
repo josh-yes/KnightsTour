@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -g  -rdynamic CMakeFiles/project_perf.dir/knights_tour.cpp.o CMakeFiles/project_perf.dir/project_perf.cpp.o  -o project_perf 

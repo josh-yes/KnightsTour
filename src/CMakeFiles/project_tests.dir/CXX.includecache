@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csuser/Desktop/cs450/project-josh-yes/src/knights_tour.h
+iostream
+-
+string
+-
+iomanip
+-
+list
+-
+vector
+-
+
+/home/csuser/Desktop/cs450/project-josh-yes/src/project_tests.cpp
+iostream
+-
+gtest/gtest.h
+-
+knights_tour.h
+/home/csuser/Desktop/cs450/project-josh-yes/src/knights_tour.h
+

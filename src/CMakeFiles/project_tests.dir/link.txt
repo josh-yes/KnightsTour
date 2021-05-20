@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -g  -rdynamic CMakeFiles/project_tests.dir/knights_tour.cpp.o CMakeFiles/project_tests.dir/project_tests.cpp.o  -o project_tests -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
